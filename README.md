@@ -151,10 +151,6 @@
 
 [Claude に基板を作ってもらって、HAKU で削ってみました](https://sin1.studio/blog/pcb-milling-with-claude/)
 
-## 製作記
-
-[Claude に基板を作ってもらって、HAKU で削ってみました](https://sin1.studio/blog/pcb-milling-with-claude/)
-
 ## ライセンス
 
 MIT
