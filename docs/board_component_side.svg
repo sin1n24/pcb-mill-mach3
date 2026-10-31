@@ -121,68 +121,68 @@ text{text-anchor:middle;font-family:sans-serif;paint-order:stroke;stroke:#fff;st
 <text x="35.6" y="29.8" class="t08 dim">M3</text>
 <line x1="17.3" y1="26.1" x2="26.5" y2="26.1" class="jw"/>
 <text x="21.9" y="25.6" class="t08 jwt">VCC ジャンパ線</text>
-<text x="4.7" y="33.95" class="t07 pin" text-anchor="start">RLEG</text>
-<text x="3.4" y="32.6" class="t07 pin gp" text-anchor="middle">G11</text>
-<text x="4.7" y="36.49" class="t07 pin" text-anchor="start">+5V</text>
-<text x="4.7" y="39.03" class="t07 pin" text-anchor="start">GND</text>
-<text x="9.78" y="33.95" class="t07 pin" text-anchor="start">SBUS</text>
-<text x="8.48" y="32.6" class="t07 pin gp" text-anchor="middle">G10</text>
-<text x="9.78" y="36.49" class="t07 pin" text-anchor="start">+5V</text>
-<text x="9.78" y="39.03" class="t07 pin" text-anchor="start">GND</text>
-<text x="14.86" y="33.95" class="t07 pin" text-anchor="start">FCLED</text>
-<text x="13.56" y="32.6" class="t07 pin gp" text-anchor="middle">G9</text>
-<text x="14.86" y="36.49" class="t07 pin" text-anchor="start">+5V</text>
-<text x="14.86" y="39.03" class="t07 pin" text-anchor="start">GND</text>
-<text x="19.94" y="33.95" class="t07 pin" text-anchor="start">LLEG</text>
-<text x="18.64" y="32.6" class="t07 pin gp" text-anchor="middle">G5</text>
-<text x="19.94" y="36.49" class="t07 pin" text-anchor="start">+5V</text>
-<text x="19.94" y="39.03" class="t07 pin" text-anchor="start">GND</text>
-<text x="25.02" y="33.95" class="t07 pin" text-anchor="start">RARM</text>
-<text x="23.72" y="32.6" class="t07 pin gp" text-anchor="middle">G4</text>
-<text x="25.02" y="36.49" class="t07 pin" text-anchor="start">+5V</text>
-<text x="25.02" y="39.03" class="t07 pin" text-anchor="start">GND</text>
-<text x="30.1" y="33.95" class="t07 pin" text-anchor="start">LARM</text>
-<text x="28.8" y="32.6" class="t07 pin gp" text-anchor="middle">G2</text>
-<text x="30.1" y="36.49" class="t07 pin" text-anchor="start">+5V</text>
-<text x="30.1" y="39.03" class="t07 pin" text-anchor="start">GND</text>
-<text x="9.72" y="22.91" class="t07 pin" text-anchor="end">5VIN</text>
-<text x="28.56" y="22.91" class="t07 pin" text-anchor="start">G1</text>
-<text x="9.72" y="20.37" class="t07 pin" text-anchor="end">3V3</text>
-<text x="28.56" y="20.37" class="t07 pin" text-anchor="start">G2</text>
-<text x="9.72" y="17.83" class="t07 pin dim" text-anchor="end">BAT(NC)</text>
-<text x="28.56" y="17.83" class="t07 pin" text-anchor="start">G3</text>
-<text x="9.72" y="15.29" class="t07 pin dim" text-anchor="end">G8(NC)</text>
-<text x="28.56" y="15.29" class="t07 pin" text-anchor="start">G4</text>
-<text x="9.72" y="12.75" class="t07 pin" text-anchor="end">G9</text>
-<text x="28.56" y="12.75" class="t07 pin" text-anchor="start">G5</text>
-<text x="9.72" y="10.21" class="t07 pin" text-anchor="end">G10</text>
-<text x="28.56" y="10.21" class="t07 pin" text-anchor="start">GND</text>
-<text x="9.72" y="7.67" class="t07 pin" text-anchor="end">G11</text>
-<text x="28.56" y="7.67" class="t07 pin" text-anchor="start">5VOUT</text>
-<text x="9.72" y="5.13" class="t07 pin dim" text-anchor="end">WAKE(NC)</text>
-<text x="28.56" y="5.13" class="t07 pin" text-anchor="start">G6</text>
-<text x="9.72" y="2.59" class="t07 pin" text-anchor="end">GND</text>
-<text x="28.56" y="2.59" class="t07 pin" text-anchor="start">G7</text>
-<text x="31.01" y="21.61" class="t07 pin" text-anchor="middle">LPOS</text>
-<text x="31.01" y="24.31" class="t07 pin gp" text-anchor="middle">G1</text>
-<text x="33.55" y="21.61" class="t07 pin" text-anchor="middle">VCC</text>
-<text x="36.09" y="21.61" class="t07 pin" text-anchor="middle">GND</text>
-<text x="31.01" y="16.53" class="t07 pin" text-anchor="middle">RPOS</text>
-<text x="31.01" y="19.23" class="t07 pin gp" text-anchor="middle">G3</text>
-<text x="33.55" y="16.53" class="t07 pin" text-anchor="middle">VCC</text>
-<text x="36.09" y="16.53" class="t07 pin" text-anchor="middle">GND</text>
-<text x="34.85" y="5.13" class="t07 pin" text-anchor="start">SDA G6</text>
-<text x="33.55" y="3.78" class="t07 pin" text-anchor="middle">IMU</text>
-<text x="34.85" y="7.67" class="t07 pin" text-anchor="start">SCL G7</text>
-<text x="34.85" y="10.21" class="t07 pin" text-anchor="start">GND</text>
-<text x="34.85" y="12.75" class="t07 pin" text-anchor="start">VCC</text>
-<text x="35.18" y="36.49" class="t07 pin" text-anchor="start">+5V</text>
-<text x="33.88" y="35.14" class="t07 pin" text-anchor="middle">PWR</text>
-<text x="35.18" y="39.03" class="t07 pin" text-anchor="start">GND</text>
-<text x="14.22" y="29.35" class="t07 pin" text-anchor="middle">5VIN</text>
-<text x="16.76" y="29.35" class="t07 pin" text-anchor="middle">+5V</text>
-<text x="16.76" y="32.05" class="t07 pin" text-anchor="middle">JP1</text>
-<text x="19.3" y="29.35" class="t07 pin" text-anchor="middle">5VOUT</text>
-<text x="17.3" y="27.75" class="t07 pin" text-anchor="middle">JW1.1</text>
-<text x="26.5" y="27.75" class="t07 pin" text-anchor="middle">JW1.2</text>
+<text x="4.7" y="33.95" class="t07 pin" style="text-anchor:start">RLEG</text>
+<text x="3.4" y="32.6" class="t07 pin gp" style="text-anchor:middle">G11</text>
+<text x="4.7" y="36.49" class="t07 pin" style="text-anchor:start">+5V</text>
+<text x="4.7" y="39.03" class="t07 pin" style="text-anchor:start">GND</text>
+<text x="9.78" y="33.95" class="t07 pin" style="text-anchor:start">SBUS</text>
+<text x="8.48" y="32.6" class="t07 pin gp" style="text-anchor:middle">G10</text>
+<text x="9.78" y="36.49" class="t07 pin" style="text-anchor:start">+5V</text>
+<text x="9.78" y="39.03" class="t07 pin" style="text-anchor:start">GND</text>
+<text x="14.86" y="33.95" class="t07 pin" style="text-anchor:start">FCLED</text>
+<text x="13.56" y="32.6" class="t07 pin gp" style="text-anchor:middle">G9</text>
+<text x="14.86" y="36.49" class="t07 pin" style="text-anchor:start">+5V</text>
+<text x="14.86" y="39.03" class="t07 pin" style="text-anchor:start">GND</text>
+<text x="19.94" y="33.95" class="t07 pin" style="text-anchor:start">LLEG</text>
+<text x="18.64" y="32.6" class="t07 pin gp" style="text-anchor:middle">G5</text>
+<text x="19.94" y="36.49" class="t07 pin" style="text-anchor:start">+5V</text>
+<text x="19.94" y="39.03" class="t07 pin" style="text-anchor:start">GND</text>
+<text x="25.02" y="33.95" class="t07 pin" style="text-anchor:start">RARM</text>
+<text x="23.72" y="32.6" class="t07 pin gp" style="text-anchor:middle">G4</text>
+<text x="25.02" y="36.49" class="t07 pin" style="text-anchor:start">+5V</text>
+<text x="25.02" y="39.03" class="t07 pin" style="text-anchor:start">GND</text>
+<text x="30.1" y="33.95" class="t07 pin" style="text-anchor:start">LARM</text>
+<text x="28.8" y="32.6" class="t07 pin gp" style="text-anchor:middle">G2</text>
+<text x="30.1" y="36.49" class="t07 pin" style="text-anchor:start">+5V</text>
+<text x="30.1" y="39.03" class="t07 pin" style="text-anchor:start">GND</text>
+<text x="9.72" y="22.91" class="t07 pin" style="text-anchor:end">5VIN</text>
+<text x="28.56" y="22.91" class="t07 pin" style="text-anchor:start">G1</text>
+<text x="9.72" y="20.37" class="t07 pin" style="text-anchor:end">3V3</text>
+<text x="28.56" y="20.37" class="t07 pin" style="text-anchor:start">G2</text>
+<text x="9.72" y="17.83" class="t07 pin dim" style="text-anchor:end">BAT(NC)</text>
+<text x="28.56" y="17.83" class="t07 pin" style="text-anchor:start">G3</text>
+<text x="9.72" y="15.29" class="t07 pin dim" style="text-anchor:end">G8(NC)</text>
+<text x="28.56" y="15.29" class="t07 pin" style="text-anchor:start">G4</text>
+<text x="9.72" y="12.75" class="t07 pin" style="text-anchor:end">G9</text>
+<text x="28.56" y="12.75" class="t07 pin" style="text-anchor:start">G5</text>
+<text x="9.72" y="10.21" class="t07 pin" style="text-anchor:end">G10</text>
+<text x="28.56" y="10.21" class="t07 pin" style="text-anchor:start">GND</text>
+<text x="9.72" y="7.67" class="t07 pin" style="text-anchor:end">G11</text>
+<text x="28.56" y="7.67" class="t07 pin" style="text-anchor:start">5VOUT</text>
+<text x="9.72" y="5.13" class="t07 pin dim" style="text-anchor:end">WAKE(NC)</text>
+<text x="28.56" y="5.13" class="t07 pin" style="text-anchor:start">G6</text>
+<text x="9.72" y="2.59" class="t07 pin" style="text-anchor:end">GND</text>
+<text x="28.56" y="2.59" class="t07 pin" style="text-anchor:start">G7</text>
+<text x="31.01" y="21.61" class="t07 pin" style="text-anchor:middle">LPOS</text>
+<text x="31.01" y="24.31" class="t07 pin gp" style="text-anchor:middle">G1</text>
+<text x="33.55" y="21.61" class="t07 pin" style="text-anchor:middle">VCC</text>
+<text x="36.09" y="21.61" class="t07 pin" style="text-anchor:middle">GND</text>
+<text x="31.01" y="16.53" class="t07 pin" style="text-anchor:middle">RPOS</text>
+<text x="31.01" y="19.23" class="t07 pin gp" style="text-anchor:middle">G3</text>
+<text x="33.55" y="16.53" class="t07 pin" style="text-anchor:middle">VCC</text>
+<text x="36.09" y="16.53" class="t07 pin" style="text-anchor:middle">GND</text>
+<text x="34.85" y="5.13" class="t07 pin" style="text-anchor:start">SDA G6</text>
+<text x="33.55" y="3.78" class="t07 pin" style="text-anchor:middle">IMU</text>
+<text x="34.85" y="7.67" class="t07 pin" style="text-anchor:start">SCL G7</text>
+<text x="34.85" y="10.21" class="t07 pin" style="text-anchor:start">GND</text>
+<text x="34.85" y="12.75" class="t07 pin" style="text-anchor:start">VCC</text>
+<text x="35.18" y="36.49" class="t07 pin" style="text-anchor:start">+5V</text>
+<text x="33.88" y="35.14" class="t07 pin" style="text-anchor:middle">PWR</text>
+<text x="35.18" y="39.03" class="t07 pin" style="text-anchor:start">GND</text>
+<text x="14.22" y="29.35" class="t07 pin" style="text-anchor:middle">5VIN</text>
+<text x="16.76" y="29.35" class="t07 pin" style="text-anchor:middle">+5V</text>
+<text x="16.76" y="32.05" class="t07 pin" style="text-anchor:middle">JP1</text>
+<text x="19.3" y="29.35" class="t07 pin" style="text-anchor:middle">5VOUT</text>
+<text x="17.3" y="27.75" class="t07 pin" style="text-anchor:middle">JW1.1</text>
+<text x="26.5" y="27.75" class="t07 pin" style="text-anchor:middle">JW1.2</text>
 </svg>
