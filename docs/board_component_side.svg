@@ -1,0 +1,188 @@
+<svg viewBox="-2 -2 43 45.1" xmlns="http://www.w3.org/2000/svg" width="602" height="631"><style>.base{fill:#e8d6a8;stroke:#7a6a40;stroke-width:.25}.cu{fill:#d39256;stroke:#6b4320;stroke-width:.25}.bat{fill:none;stroke:#555;stroke-width:.2;stroke-dasharray:.8 .5}
+.tht{fill:#fff;stroke:#7a6a40;stroke-width:.2}.groove{fill:none;stroke:#3b2a1a;stroke-linecap:round;stroke-linejoin:round}
+.hole{fill:#222}.mhole{fill:#fff;stroke:#222;stroke-width:.25}.jw{stroke:#1565c0;stroke-width:.4;stroke-linecap:round}.jwb{stroke-opacity:.45;stroke-dasharray:1 .5}.jwt{fill:#1565c0;font-weight:bold}
+text{text-anchor:middle;font-family:sans-serif;paint-order:stroke;stroke:#fff;stroke-width:.2px;stroke-linejoin:round}
+.t07{font-size:.72px}.t08{font-size:.8px}.t1{font-size:1px}.t14{font-size:1.4px;font-weight:bold;fill:#555}
+.pin{fill:#111;font-weight:bold}.dim{fill:#888}.gp{fill:#0a4f9e}
+</style><rect x="-2.0" y="-2.0" width="43.0" height="45.1" fill="#fff"/>
+<rect x="0" y="0" width="39" height="41.1" rx="0.4" class="base"/>
+<rect x="10.14" y="1" width="18" height="28" class="bat"/>
+<text x="19.14" y="14.5" class="t14">Stamp-S3Bat</text>
+<text x="19.14" y="2.3" class="t1">USB↑（基板の上端）</text>
+<circle cx="3.4" cy="33.7" r="0.95" class="tht"/>
+<circle cx="3.4" cy="36.24" r="0.95" class="tht"/>
+<circle cx="3.4" cy="38.78" r="0.95" class="tht"/>
+<circle cx="8.48" cy="33.7" r="0.95" class="tht"/>
+<circle cx="8.48" cy="36.24" r="0.95" class="tht"/>
+<circle cx="8.48" cy="38.78" r="0.95" class="tht"/>
+<circle cx="13.56" cy="33.7" r="0.95" class="tht"/>
+<circle cx="13.56" cy="36.24" r="0.95" class="tht"/>
+<circle cx="13.56" cy="38.78" r="0.95" class="tht"/>
+<circle cx="18.64" cy="33.7" r="0.95" class="tht"/>
+<circle cx="18.64" cy="36.24" r="0.95" class="tht"/>
+<circle cx="18.64" cy="38.78" r="0.95" class="tht"/>
+<circle cx="23.72" cy="33.7" r="0.95" class="tht"/>
+<circle cx="23.72" cy="36.24" r="0.95" class="tht"/>
+<circle cx="23.72" cy="38.78" r="0.95" class="tht"/>
+<circle cx="28.8" cy="33.7" r="0.95" class="tht"/>
+<circle cx="28.8" cy="36.24" r="0.95" class="tht"/>
+<circle cx="28.8" cy="38.78" r="0.95" class="tht"/>
+<rect x="10.22" y="21.76" width="2.6" height="1.8" rx="0.9" class="tht"/>
+<rect x="25.46" y="21.76" width="2.6" height="1.8" rx="0.9" class="tht"/>
+<rect x="10.22" y="19.22" width="2.6" height="1.8" rx="0.9" class="tht"/>
+<rect x="25.46" y="19.22" width="2.6" height="1.8" rx="0.9" class="tht"/>
+<rect x="10.22" y="16.68" width="2.6" height="1.8" rx="0.9" class="tht"/>
+<rect x="25.46" y="16.68" width="2.6" height="1.8" rx="0.9" class="tht"/>
+<rect x="10.22" y="14.14" width="2.6" height="1.8" rx="0.9" class="tht"/>
+<rect x="25.46" y="14.14" width="2.6" height="1.8" rx="0.9" class="tht"/>
+<rect x="10.22" y="11.6" width="2.6" height="1.8" rx="0.9" class="tht"/>
+<rect x="25.46" y="11.6" width="2.6" height="1.8" rx="0.9" class="tht"/>
+<rect x="10.22" y="9.06" width="2.6" height="1.8" rx="0.9" class="tht"/>
+<rect x="25.46" y="9.06" width="2.6" height="1.8" rx="0.9" class="tht"/>
+<rect x="10.22" y="6.52" width="2.6" height="1.8" rx="0.9" class="tht"/>
+<rect x="25.46" y="6.52" width="2.6" height="1.8" rx="0.9" class="tht"/>
+<rect x="10.22" y="3.98" width="2.6" height="1.8" rx="0.9" class="tht"/>
+<rect x="25.46" y="3.98" width="2.6" height="1.8" rx="0.9" class="tht"/>
+<rect x="10.22" y="1.44" width="2.6" height="1.8" rx="0.9" class="tht"/>
+<rect x="25.46" y="1.44" width="2.6" height="1.8" rx="0.9" class="tht"/>
+<circle cx="31.01" cy="22.66" r="0.95" class="tht"/>
+<circle cx="33.55" cy="22.66" r="0.95" class="tht"/>
+<circle cx="36.09" cy="22.66" r="0.95" class="tht"/>
+<circle cx="31.01" cy="17.58" r="0.95" class="tht"/>
+<circle cx="33.55" cy="17.58" r="0.95" class="tht"/>
+<circle cx="36.09" cy="17.58" r="0.95" class="tht"/>
+<circle cx="33.55" cy="4.88" r="0.95" class="tht"/>
+<circle cx="33.55" cy="7.42" r="0.95" class="tht"/>
+<circle cx="33.55" cy="9.96" r="0.95" class="tht"/>
+<circle cx="33.55" cy="12.5" r="0.95" class="tht"/>
+<circle cx="33.88" cy="36.24" r="0.95" class="tht"/>
+<circle cx="33.88" cy="38.78" r="0.95" class="tht"/>
+<circle cx="14.22" cy="30.4" r="0.95" class="tht"/>
+<circle cx="16.76" cy="30.4" r="0.95" class="tht"/>
+<circle cx="19.3" cy="30.4" r="0.95" class="tht"/>
+<circle cx="17.3" cy="26.1" r="0.95" class="tht"/>
+<circle cx="26.5" cy="26.1" r="0.95" class="tht"/>
+<circle cx="3.4" cy="33.7" r="0.5" class="hole"/>
+<circle cx="3.4" cy="36.24" r="0.5" class="hole"/>
+<circle cx="3.4" cy="38.78" r="0.5" class="hole"/>
+<circle cx="8.48" cy="33.7" r="0.5" class="hole"/>
+<circle cx="8.48" cy="36.24" r="0.5" class="hole"/>
+<circle cx="8.48" cy="38.78" r="0.5" class="hole"/>
+<circle cx="13.56" cy="33.7" r="0.5" class="hole"/>
+<circle cx="13.56" cy="36.24" r="0.5" class="hole"/>
+<circle cx="13.56" cy="38.78" r="0.5" class="hole"/>
+<circle cx="18.64" cy="33.7" r="0.5" class="hole"/>
+<circle cx="18.64" cy="36.24" r="0.5" class="hole"/>
+<circle cx="18.64" cy="38.78" r="0.5" class="hole"/>
+<circle cx="23.72" cy="33.7" r="0.5" class="hole"/>
+<circle cx="23.72" cy="36.24" r="0.5" class="hole"/>
+<circle cx="23.72" cy="38.78" r="0.5" class="hole"/>
+<circle cx="28.8" cy="33.7" r="0.5" class="hole"/>
+<circle cx="28.8" cy="36.24" r="0.5" class="hole"/>
+<circle cx="28.8" cy="38.78" r="0.5" class="hole"/>
+<rect x="10.72" y="22.16" width="1.6" height="1" rx="0.5" class="hole"/>
+<rect x="25.96" y="22.16" width="1.6" height="1" rx="0.5" class="hole"/>
+<rect x="10.72" y="19.62" width="1.6" height="1" rx="0.5" class="hole"/>
+<rect x="25.96" y="19.62" width="1.6" height="1" rx="0.5" class="hole"/>
+<rect x="10.72" y="17.08" width="1.6" height="1" rx="0.5" class="hole"/>
+<rect x="25.96" y="17.08" width="1.6" height="1" rx="0.5" class="hole"/>
+<rect x="10.72" y="14.54" width="1.6" height="1" rx="0.5" class="hole"/>
+<rect x="25.96" y="14.54" width="1.6" height="1" rx="0.5" class="hole"/>
+<rect x="10.72" y="12" width="1.6" height="1" rx="0.5" class="hole"/>
+<rect x="25.96" y="12" width="1.6" height="1" rx="0.5" class="hole"/>
+<rect x="10.72" y="9.46" width="1.6" height="1" rx="0.5" class="hole"/>
+<rect x="25.96" y="9.46" width="1.6" height="1" rx="0.5" class="hole"/>
+<rect x="10.72" y="6.92" width="1.6" height="1" rx="0.5" class="hole"/>
+<rect x="25.96" y="6.92" width="1.6" height="1" rx="0.5" class="hole"/>
+<rect x="10.72" y="4.38" width="1.6" height="1" rx="0.5" class="hole"/>
+<rect x="25.96" y="4.38" width="1.6" height="1" rx="0.5" class="hole"/>
+<rect x="10.72" y="1.84" width="1.6" height="1" rx="0.5" class="hole"/>
+<rect x="25.96" y="1.84" width="1.6" height="1" rx="0.5" class="hole"/>
+<circle cx="31.01" cy="22.66" r="0.5" class="hole"/>
+<circle cx="33.55" cy="22.66" r="0.5" class="hole"/>
+<circle cx="36.09" cy="22.66" r="0.5" class="hole"/>
+<circle cx="31.01" cy="17.58" r="0.5" class="hole"/>
+<circle cx="33.55" cy="17.58" r="0.5" class="hole"/>
+<circle cx="36.09" cy="17.58" r="0.5" class="hole"/>
+<circle cx="33.55" cy="4.88" r="0.5" class="hole"/>
+<circle cx="33.55" cy="7.42" r="0.5" class="hole"/>
+<circle cx="33.55" cy="9.96" r="0.5" class="hole"/>
+<circle cx="33.55" cy="12.5" r="0.5" class="hole"/>
+<circle cx="33.88" cy="36.24" r="0.5" class="hole"/>
+<circle cx="33.88" cy="38.78" r="0.5" class="hole"/>
+<circle cx="14.22" cy="30.4" r="0.5" class="hole"/>
+<circle cx="16.76" cy="30.4" r="0.5" class="hole"/>
+<circle cx="19.3" cy="30.4" r="0.5" class="hole"/>
+<circle cx="17.3" cy="26.1" r="0.5" class="hole"/>
+<circle cx="26.5" cy="26.1" r="0.5" class="hole"/>
+<circle cx="2.6" cy="2.6" r="1.6" class="mhole"/>
+<text x="2.6" y="2.9" class="t08 dim">M3</text>
+<circle cx="35.6" cy="29.5" r="1.6" class="mhole"/>
+<text x="35.6" y="29.8" class="t08 dim">M3</text>
+<line x1="17.3" y1="26.1" x2="26.5" y2="26.1" class="jw"/>
+<text x="21.9" y="25.6" class="t08 jwt">VCC ジャンパ線</text>
+<text x="4.7" y="33.95" class="t07 pin" text-anchor="start">RLEG</text>
+<text x="3.4" y="32.6" class="t07 pin gp" text-anchor="middle">G11</text>
+<text x="4.7" y="36.49" class="t07 pin" text-anchor="start">+5V</text>
+<text x="4.7" y="39.03" class="t07 pin" text-anchor="start">GND</text>
+<text x="9.78" y="33.95" class="t07 pin" text-anchor="start">SBUS</text>
+<text x="8.48" y="32.6" class="t07 pin gp" text-anchor="middle">G10</text>
+<text x="9.78" y="36.49" class="t07 pin" text-anchor="start">+5V</text>
+<text x="9.78" y="39.03" class="t07 pin" text-anchor="start">GND</text>
+<text x="14.86" y="33.95" class="t07 pin" text-anchor="start">FCLED</text>
+<text x="13.56" y="32.6" class="t07 pin gp" text-anchor="middle">G9</text>
+<text x="14.86" y="36.49" class="t07 pin" text-anchor="start">+5V</text>
+<text x="14.86" y="39.03" class="t07 pin" text-anchor="start">GND</text>
+<text x="19.94" y="33.95" class="t07 pin" text-anchor="start">LLEG</text>
+<text x="18.64" y="32.6" class="t07 pin gp" text-anchor="middle">G5</text>
+<text x="19.94" y="36.49" class="t07 pin" text-anchor="start">+5V</text>
+<text x="19.94" y="39.03" class="t07 pin" text-anchor="start">GND</text>
+<text x="25.02" y="33.95" class="t07 pin" text-anchor="start">RARM</text>
+<text x="23.72" y="32.6" class="t07 pin gp" text-anchor="middle">G4</text>
+<text x="25.02" y="36.49" class="t07 pin" text-anchor="start">+5V</text>
+<text x="25.02" y="39.03" class="t07 pin" text-anchor="start">GND</text>
+<text x="30.1" y="33.95" class="t07 pin" text-anchor="start">LARM</text>
+<text x="28.8" y="32.6" class="t07 pin gp" text-anchor="middle">G2</text>
+<text x="30.1" y="36.49" class="t07 pin" text-anchor="start">+5V</text>
+<text x="30.1" y="39.03" class="t07 pin" text-anchor="start">GND</text>
+<text x="9.72" y="22.91" class="t07 pin" text-anchor="end">5VIN</text>
+<text x="28.56" y="22.91" class="t07 pin" text-anchor="start">G1</text>
+<text x="9.72" y="20.37" class="t07 pin" text-anchor="end">3V3</text>
+<text x="28.56" y="20.37" class="t07 pin" text-anchor="start">G2</text>
+<text x="9.72" y="17.83" class="t07 pin dim" text-anchor="end">BAT(NC)</text>
+<text x="28.56" y="17.83" class="t07 pin" text-anchor="start">G3</text>
+<text x="9.72" y="15.29" class="t07 pin dim" text-anchor="end">G8(NC)</text>
+<text x="28.56" y="15.29" class="t07 pin" text-anchor="start">G4</text>
+<text x="9.72" y="12.75" class="t07 pin" text-anchor="end">G9</text>
+<text x="28.56" y="12.75" class="t07 pin" text-anchor="start">G5</text>
+<text x="9.72" y="10.21" class="t07 pin" text-anchor="end">G10</text>
+<text x="28.56" y="10.21" class="t07 pin" text-anchor="start">GND</text>
+<text x="9.72" y="7.67" class="t07 pin" text-anchor="end">G11</text>
+<text x="28.56" y="7.67" class="t07 pin" text-anchor="start">5VOUT</text>
+<text x="9.72" y="5.13" class="t07 pin dim" text-anchor="end">WAKE(NC)</text>
+<text x="28.56" y="5.13" class="t07 pin" text-anchor="start">G6</text>
+<text x="9.72" y="2.59" class="t07 pin" text-anchor="end">GND</text>
+<text x="28.56" y="2.59" class="t07 pin" text-anchor="start">G7</text>
+<text x="31.01" y="21.61" class="t07 pin" text-anchor="middle">LPOS</text>
+<text x="31.01" y="24.31" class="t07 pin gp" text-anchor="middle">G1</text>
+<text x="33.55" y="21.61" class="t07 pin" text-anchor="middle">VCC</text>
+<text x="36.09" y="21.61" class="t07 pin" text-anchor="middle">GND</text>
+<text x="31.01" y="16.53" class="t07 pin" text-anchor="middle">RPOS</text>
+<text x="31.01" y="19.23" class="t07 pin gp" text-anchor="middle">G3</text>
+<text x="33.55" y="16.53" class="t07 pin" text-anchor="middle">VCC</text>
+<text x="36.09" y="16.53" class="t07 pin" text-anchor="middle">GND</text>
+<text x="34.85" y="5.13" class="t07 pin" text-anchor="start">SDA G6</text>
+<text x="33.55" y="3.78" class="t07 pin" text-anchor="middle">IMU</text>
+<text x="34.85" y="7.67" class="t07 pin" text-anchor="start">SCL G7</text>
+<text x="34.85" y="10.21" class="t07 pin" text-anchor="start">GND</text>
+<text x="34.85" y="12.75" class="t07 pin" text-anchor="start">VCC</text>
+<text x="35.18" y="36.49" class="t07 pin" text-anchor="start">+5V</text>
+<text x="33.88" y="35.14" class="t07 pin" text-anchor="middle">PWR</text>
+<text x="35.18" y="39.03" class="t07 pin" text-anchor="start">GND</text>
+<text x="14.22" y="29.35" class="t07 pin" text-anchor="middle">5VIN</text>
+<text x="16.76" y="29.35" class="t07 pin" text-anchor="middle">+5V</text>
+<text x="16.76" y="32.05" class="t07 pin" text-anchor="middle">JP1</text>
+<text x="19.3" y="29.35" class="t07 pin" text-anchor="middle">5VOUT</text>
+<text x="17.3" y="27.75" class="t07 pin" text-anchor="middle">JW1.1</text>
+<text x="26.5" y="27.75" class="t07 pin" text-anchor="middle">JW1.2</text>
+</svg>
